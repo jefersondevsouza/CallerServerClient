@@ -1,0 +1,9 @@
+D:\Dev\Projetos\ChamarOlimpo\ListarVersoes\bin\Release\ListarVersoes.exe
+D:\Dev\Projetos\ChamarOlimpo\ListarVersoes\bin\Release\ListarVersoes.exe.config
+D:\Dev\Projetos\ChamarOlimpo\ListarVersoes\obj\Release\ListarVersoes.Form1.resources
+D:\Dev\Projetos\ChamarOlimpo\ListarVersoes\obj\Release\ListarVersoes.Properties.Resources.resources
+D:\Dev\Projetos\ChamarOlimpo\ListarVersoes\obj\Release\ListarVersoes.csproj.GenerateResource.Cache
+D:\Dev\Projetos\ChamarOlimpo\ListarVersoes\obj\Release\ListarVersoes.exe
+D:\Dev\Projetos\ChamarOlimpo\ListarVersoes\obj\Release\ListarVersoes.pdb
+D:\Dev\Projetos\ChamarOlimpo\ListarVersoes\bin\Release\ListarVersoes.pdb
+D:\Dev\Projetos\ChamarOlimpo\ListarVersoes\obj\Release\ListarVersoes.csprojResolveAssemblyReference.cache
